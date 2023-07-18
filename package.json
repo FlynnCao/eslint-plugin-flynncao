@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-flynncao",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Flynn Cao's ESLint Config Presets.",
   "keywords": [
     "eslint",
