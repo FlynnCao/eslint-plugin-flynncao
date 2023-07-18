@@ -16,6 +16,9 @@ module.exports = {
       env: { mocha: true },
     },
   ],
+	parserOptions:{
+		sourceType : "script"
+	},
 	rules:{
 		'no-mixed-spaces-and-tabs': 0
 	}
